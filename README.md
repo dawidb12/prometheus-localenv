@@ -2,7 +2,7 @@
 
 ## Instructions
 1. Make sure Vagrant is installed.
-2. Pull the repository and run the command 'vagrant up'
+2. Pull the repository and run the command `vagrant up`
 3. Log into all newly created nodes. Their IP addresses are as follows:
 
 | hostname          | ip address     | 
